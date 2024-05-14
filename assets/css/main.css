@@ -41,6 +41,7 @@ body {
 
 img#dot-logo {
   vertical-align: middle;
+  margin-bottom: 0.25em;
 }
 
 button#cta {
