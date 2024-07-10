@@ -44,10 +44,11 @@ img#dot-logo {
   margin-bottom: 0.25em;
 }
 
-button#cta {
+.cta {
   font-size: 1em;
   padding-left: 1em;
   padding-right: 1em;
+  background-color: #e50079;
 }
 
 ol, ul {
