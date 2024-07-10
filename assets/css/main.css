@@ -48,6 +48,12 @@ img#dot-logo {
   font-size: 1em;
   padding-left: 1em;
   padding-right: 1em;
+}
+
+.vote {
+  font-size: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
   background-color: #e50079;
 }
 
