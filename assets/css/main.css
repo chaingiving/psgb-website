@@ -57,6 +57,10 @@ img#dot-logo {
   background-color: #e50079;
 }
 
+.vote:hover {
+  background-color: #d50573;
+ }
+
 ol, ul {
   list-style: none; }
 
